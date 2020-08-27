@@ -3,8 +3,6 @@
 ### ⚡ Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2020 - 26 August, 2020
-
 TypeScript   21 hrs 56 mins  ████████████████████████░   96.49 % 
 JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 SCSS         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
