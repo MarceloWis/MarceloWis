@@ -3,11 +3,11 @@
 ### ⚡ Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.54 % 
-YAML         2 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-JavaScript   2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Docker       1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-HTML         1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+TypeScript   6 hrs 21 mins   ███████████▓░░░░░░░░░░░░░   46.04 % 
+YAML         2 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Docker       1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+HTML         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JavaScript   1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 ```
 <!--END_SECTION:waka-->
 <!--
