@@ -3,8 +3,7 @@
 ### ⚡ Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 17 mins    █████████████████████▒░░░   85.27 % 
-HTML         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
