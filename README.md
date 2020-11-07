@@ -3,11 +3,10 @@
 ### ⚡ Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-TypeScript   14 hrs 12 mins  █████████████████▓░░░░░░░   70.82 % 
-HTML         2 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-SCSS         1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Other        1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript   10 hrs 13 mins  █████████████████░░░░░░░░   68.00 % 
+HTML         3 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+SCSS         1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 <!--END_SECTION:waka-->
 <!--
