@@ -3,11 +3,11 @@
 ### ⚡ Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-JavaScript   25 hrs 24 mins  █████████████████████▒░░░   84.81 % 
-TypeScript   1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-HTML         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Dart         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+JavaScript   27 hrs 14 mins  ██████████████████▓░░░░░░   74.42 % 
+TypeScript   3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+HTML         3 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Dart         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
 <!--
