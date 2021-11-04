@@ -12,9 +12,9 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
 <br />
 
 
-- 🌱 I’m currently learning **Design Patterns, Kubernetes, AWS and Elixir**
+- 🌱 I’m currently learning **Design Patterns, AWS**
 
-- 💬 Ask me about **Node, React, Typescript, microservices**
+- 💬 Ask me about **Node, React, Typescript**
 
 - 📫 How to reach me **marcelowisc@gmail.com**
 <br />
